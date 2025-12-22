@@ -22,7 +22,6 @@ Rather than acting as a simple fact-checker, TruthLensAI focuses on **education,
 ##  Key Features
 -  **Multi-Input Verification**
   - Paste text or URLs
-  - Upload screenshots or images of social media posts
 -  **AI-Based Misinformation Detection**
   - Classifies content as:
     - Likely Safe
