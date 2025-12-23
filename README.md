@@ -109,3 +109,8 @@ Datasets are used for retrieval, evaluation, and benchmarking.
 ```bash
 git clone https://github.com/eknoor-kaur-kohli/TruthLensAI
 cd TruthLensAI
+```
+## Demonstration
+![A screenshot of the webpage](./image/webpage-screenshot.jpeg)
+Here's the mock demo showed at Vishesh 2K25 which is available at sample_data.py
+![Mock Demo](./image/mock-demo.png)
